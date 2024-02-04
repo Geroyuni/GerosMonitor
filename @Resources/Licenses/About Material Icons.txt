@@ -1,0 +1,1 @@
+Material Icons (https://fonts.google.com/icons) aren't used directly with their svg, png or font files, but have been modified to be included into the Rainmeter meters as shapes.
