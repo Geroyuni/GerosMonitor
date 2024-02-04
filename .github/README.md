@@ -1,9 +1,12 @@
 # GerosMonitor for Rainmeter
+![](showcase.png)
+
 This is a system monitoring skin that is basically a task manager for your taskbar. It's a compact monitor that detects when the taskbar hides or you go fullscreen, and becomes its own portable window. Shows CPU usage, GPU usage, temperatures, disk usage, network (internet) usage, RAM, and FPS (frames per second).
 
 Version 2.0 brings support for high DPI displays, fullscreen detection in secondary monitors and improved support for Windows 11, among other things. The skin still works on Windows 10. If you're upgrading from version 1.X, I recommend looking at the changelog below beforehand.
 
-[Download and changelog](https://github.com/Geroyuni/GerosMonitor/releases/)
+- **[Download and changelog](https://github.com/Geroyuni/GerosMonitor/releases/)**
+- [Deviantart page](https://www.deviantart.com/geroyuni/art/GerosMonitor-for-Rainmeter-749877799)
 
 ## Requirements
 - [Rainmeter 4.5.18+](https://www.rainmeter.net/)
@@ -19,5 +22,5 @@ Some of the settings available are:
 
 These are the main things you'll need to beware of about this skin:
 - There's no support for small or vertical taskbars
-- Sometimes the taskbar covers the skin. You won't see that with a transparent taskbar with Open Shell
+- Sometimes the taskbar covers the skin. You won't see that with a transparent taskbar with [Open Shell](https://github.com/Open-Shell/Open-Shell-Menu)
 - Sometimes portable mode can't be visible due to 'exclusive full screen' programs
